@@ -10,6 +10,7 @@ import chalk from "chalk";
 // console.log(chalk.hidden.bgBlueBright("Hidden text"));
 
 console.log(chalk.green("**************************************************"));
+console.log("                                                     ");
 console.log(chalk.yellow("          🍅Welcome to Fruit shop :D🍉        "));
 console.log("                                                     ");
 console.log(chalk.green("**************************************************"));
@@ -33,4 +34,3 @@ console.log("Indian Flag");
 console.log(chalk.bgRedBright("            "));
 console.log(chalk.bgWhite("            "));
 console.log(chalk.bgGreen.hidden("            "));
-
