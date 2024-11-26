@@ -28,8 +28,9 @@ console.log(chalk.blue("---------------------------------------------------"));
 
 //INDIAN FLAG:
 
-console.log("Racist Indian Flag");
+console.log("Indian Flag");
 
 console.log(chalk.bgRedBright("            "));
-console.log(chalk.bgWhite("     💩     "));
+console.log(chalk.bgWhite("            "));
 console.log(chalk.bgGreen.hidden("            "));
+
